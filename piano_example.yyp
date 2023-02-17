@@ -1,0 +1,37 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "piano_example",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy","order":3,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":9,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy","order":10,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy","order":13,},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.200.0.281",
+  },
+  "resources": [
+    {"id":{"name":"snd_c","path":"sounds/snd_c/snd_c.yy",},"order":0,},
+    {"id":{"name":"spr_key_pressed","path":"sprites/spr_key_pressed/spr_key_pressed.yy",},"order":1,},
+    {"id":{"name":"obj_piano","path":"objects/obj_piano/obj_piano.yy",},"order":0,},
+    {"id":{"name":"room_piano","path":"rooms/room_piano/room_piano.yy",},"order":0,},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"room_piano","path":"rooms/room_piano/room_piano.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_key_pressed","order":1,"path":"sprites/spr_key_pressed/spr_key_pressed.yy",},
+  ],
+}

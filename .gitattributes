@@ -1,0 +1,2 @@
+# Re-classify .yy files
+*.yy linguist-language=JSON
